@@ -1,0 +1,9 @@
+<map id="User" name="User">
+<area shape="rect" id="Node000001" title="Clase base que representa un usuario del sistema médico." alt="" coords="96,5,146,32"/>
+<area shape="rect" id="Node000002" href="$class_doctor.html" title="Clase que hereda de User y representa un doctor en el sistema médico." alt="" coords="5,80,66,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,44,52,82,48,78,93,40"/>
+<area shape="rect" id="Node000003" href="$class_patient.html" title="Clase que hereda de User y representa un paciente en el sistema médico." alt="" coords="90,80,152,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,48,124,80,118,80,118,48"/>
+<area shape="rect" id="Node000004" href="$class_recepcionist.html" title="Clase que hereda de User y representa un recepcionista en el sistema médico." alt="" coords="176,80,274,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,39,208,77,205,82,150,43"/>
+</map>

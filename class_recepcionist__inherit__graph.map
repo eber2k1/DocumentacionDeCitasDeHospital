@@ -1,0 +1,5 @@
+<map id="Recepcionist" name="Recepcionist">
+<area shape="rect" id="Node000001" title="Clase que hereda de User y representa un recepcionista en el sistema médico." alt="" coords="5,80,103,107"/>
+<area shape="rect" id="Node000002" href="$class_user.html" title="Clase base que representa un usuario del sistema médico." alt="" coords="29,5,79,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,48,57,80,51,80,51,48"/>
+</map>
